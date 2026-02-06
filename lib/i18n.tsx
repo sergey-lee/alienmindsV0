@@ -168,9 +168,10 @@ const translations = {
     },
     footer: {
       copyright: "AlienMinds",
-      location: "Seoul, South Korea",
-      phone: "010 83872508",
+      contactUs: "Contact Us",
+      phone: "01083872508",
       email: "info@alienminds.net",
+      telegram: "@k0jihero",
     },
   },
   ru: {
@@ -336,9 +337,10 @@ const translations = {
     },
     footer: {
       copyright: "AlienMinds",
-      location: "Сеул, Корея",
-      phone: "010 83872508",
+      contactUs: "Свяжитесь с нами",
+      phone: "01083872508",
       email: "info@alienminds.net",
+      telegram: "@k0jihero",
     },
   },
   ko: {
@@ -504,9 +506,10 @@ const translations = {
     },
     footer: {
       copyright: "AlienMinds",
-      location: "서울, 한국",
-      phone: "010 83872508",
+      contactUs: "연락처",
+      phone: "01083872508",
       email: "info@alienminds.net",
+      telegram: "@k0jihero",
     },
   },
 }
