@@ -11,9 +11,20 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://alienminds.net"),
   title: "AlienMinds - Mobile & Web Development",
   description: "Mobile & Web App Solutions - iOS, Android, Flutter Development",
-  generator: "v0.app",
+  openGraph: {
+    title: "AlienMinds",
+    description: "Mobile & Web App Solutions - iOS, Android, Flutter Development",
+    siteName: "AlienMinds",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "AlienMinds",
+    description: "Mobile & Web App Solutions - iOS, Android, Flutter Development",
+  },
 }
 
 export const viewport: Viewport = {
