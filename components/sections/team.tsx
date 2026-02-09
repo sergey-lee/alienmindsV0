@@ -4,7 +4,7 @@ import { Pill } from "@/components/pill"
 import Image from "next/image"
 import { useI18n } from "@/lib/i18n"
 
-const images = ["/sergey.jpg", "/joon.jpg", "/diana.jpg", "/matthew.jpg", "/jenny.jpg", "/anton.jpg"]
+const images = ["/sergey.jpg", "/joon.jpg", "/kaylee.jpeg", "/diana.jpg", "/matthew.jpg", "/jenny.jpg", "/anton.jpg"]
 
 export function Team() {
   const { t } = useI18n()

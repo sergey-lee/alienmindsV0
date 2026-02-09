@@ -68,6 +68,11 @@ const translations = {
           description: "Technology leader with 10+ years in AI/ML, LLMs, computer vision, and system architecture. PhD in Data Science.",
         },
         {
+          name: "Kaylee Chang",
+          role: "Project Manager",
+          description: "Experienced PM ensuring smooth delivery of complex digital projects. Expert in Agile and cross-functional team coordination.",
+        },
+        {
           name: "Diana Abrin",
           role: "UI/UX Designer",
           description: "Creative designer for mobile and web interfaces. Specializes in intuitive user experiences across all platforms.",
@@ -79,8 +84,8 @@ const translations = {
         },
         {
           name: "Jenny Kim",
-          role: "Project Manager",
-          description: "Experienced PM ensuring smooth delivery of complex digital projects. Expert in Agile and cross-functional teams.",
+          role: "HR Director",
+          description: "HR leader managing talent acquisition, team culture, and organizational development. Builds high-performing teams.",
         },
         {
           name: "Anton Emelyanov",
@@ -294,6 +299,11 @@ const translations = {
           description: "Технический лидер с 10+ годами опыта в AI/ML, LLM, компьютерном зрении и системной архитектуре. PhD в Data Science.",
         },
         {
+          name: "Кейли Чанг",
+          role: "Проект-менеджер",
+          description: "Опытный PM, обеспечивающий успешную реализацию сложных цифровых проектов. Эксперт в Agile и координации кросс-функциональных команд.",
+        },
+        {
           name: "Диана Абрин",
           role: "UI/UX Дизайнер",
           description: "Креативный дизайнер мобильных и веб-интерфейсов. Специализируется на интуитивном UX для всех платформ.",
@@ -305,8 +315,8 @@ const translations = {
         },
         {
           name: "Дженни Ким",
-          role: "Проект-менеджер",
-          description: "Опытный PM, обеспечивающий успешную реализацию сложных цифровых проектов. Эксперт в Agile.",
+          role: "HR-директор",
+          description: "HR-лидер, отвечающий за подбор талантов, командную культуру и организационное развитие. Создаёт высокоэффективные команды.",
         },
         {
           name: "Антон Емельянов",
@@ -520,6 +530,11 @@ const translations = {
           description: "AI/ML, LLM, 컴퓨터 비전 및 시스템 아키텍처 10년 이상 경력의 기술 리더. 데이터 사이언스 박사.",
         },
         {
+          name: "장진서 (Kaylee Chang)",
+          role: "프로젝트 매니저",
+          description: "복잡한 디지털 프로젝트의 원활한 전달을 보장하는 경험 많은 PM. Agile 및 크로스펑셔널 팀 조율 전문가.",
+        },
+        {
           name: "다이아나 아브린",
           role: "UI/UX 디자이너",
           description: "모바일 및 웹 인터페이스를 위한 크리에이티브 디자이너. 모든 플랫폼의 직관적인 UX 전문.",
@@ -531,8 +546,8 @@ const translations = {
         },
         {
           name: "제니 김",
-          role: "프로젝트 매니저",
-          description: "복잡한 디지털 프로젝트의 원활한 전달을 보장하는 경험 많은 PM. Agile 및 크로스펑셔널 팀 전문가.",
+          role: "HR 디렉터",
+          description: "인재 확보, 팀 문화 및 조직 개발을 담당하는 HR 리더. 고성과 팀을 구축합니다.",
         },
         {
           name: "안톤 에멜리아노프",
