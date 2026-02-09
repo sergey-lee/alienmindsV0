@@ -19,11 +19,20 @@ export const metadata: Metadata = {
     description: "Mobile & Web App Solutions - iOS, Android, Flutter Development",
     siteName: "AlienMinds",
     type: "website",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "AlienMinds - Mobile & Web Development",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "AlienMinds",
     description: "Mobile & Web App Solutions - iOS, Android, Flutter Development",
+    images: ["/og-image.png"],
   },
 }
 
